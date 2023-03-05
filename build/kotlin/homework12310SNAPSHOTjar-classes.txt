@@ -1,0 +1,1 @@
+/home/roy/IdeaProjects/homework1_2_3/build/classes/kotlin/main/ru/netology/MainKt.class
